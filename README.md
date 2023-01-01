@@ -5,10 +5,10 @@
 <summary>Table of Contents</summary>
   <ol>      
       <li><a href="#Objectifs">Objectifs</a></li>
-      <li><a href="#Suppression du bruit provoqué par les mouvements du corps ">Suppression du bruit provoqué par les mouvements du corps </a></li> 
+      <li><a href="#Suppression du bruit provoqué par les mouvements du corps ">Suppression du bruit provoqué par les mouvements du corps</a></li> 
       <li><a href="#Suppression des interférences des lignes électriques 50H">Suppression des interférences des lignes électriques 50H</a></li> 
-      <li><a href="#Amélioration du rapport signal sur bruit">Amélioration du rapport signal sur bruit </a></li> 
-      <li><a href="#Identification de la fréquence cardiaque avec la fonction d’autocorrélation ">Identification de la fréquence cardiaque avec la fonction     d’autocorrélation </a></li> 
+      <li><a href="#Amélioration du rapport signal sur bruit">Amélioration du rapport signal sur bruit</a></li> 
+      <li><a href="#Identification de la fréquence cardiaque avec la fonction d’autocorrélation ">Identification de la fréquence cardiaque avec la fonction     d’autocorrélation</a></li> 
       
   </ol>
 
